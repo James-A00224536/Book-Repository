@@ -459,6 +459,7 @@ void main()
 			else if(task == "3")
 			{
 				//printAllBooks(book_1);
+				cout<<"Sorry, but this feature is currently unavailable."<<endl;
 			}
 			else if(task == "4")
 			{
